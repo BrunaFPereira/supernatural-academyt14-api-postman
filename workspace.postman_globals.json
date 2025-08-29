@@ -1,0 +1,105 @@
+{
+	"id": "112939ab-3980-49d9-8952-0e529acd767c",
+	"values": [
+		{
+			"key": "tokenAdmin",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "corporateName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "registerCompany",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "mail",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "matriz",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "serviceDescription",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "responsibleContact",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "telephone",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "street",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "number",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "complement",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "district",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "city",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "state",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "country",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postalCode",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-08-29T04:40:21.219Z",
+	"_postman_exported_using": "Postman/11.60.4-250829-0110"
+}
